@@ -96,18 +96,7 @@ Please take a look to the official documentation up to date:
     -  http://pythonhosted.org/Flask-PonyWhoosh/
     -  https://pypi.python.org/pypi/Flask-PonyWhoosh
 
-Installation
-------------
 
-.. code:: python
-
-    pip install --upgrade flask-ponywhoosh
-
-or use the develop (unstable) version:
-
-.. code:: bash
-
-    git clone https://github.com/compiteing/Flask-PonyWhoosh.git
 
 
 .. |PyPI Package latest release| image:: http://img.shields.io/pypi/v/Flask-PonyWhoosh.png?style=flat
