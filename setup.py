@@ -54,7 +54,7 @@ setup(
     , 'engine'
     , 'flask'
     , 'flask-sqlalchemy'
-    , 'flask-whooshhalchemy'
+    , 'flask-whooshalchemy'
     , 'mysql'
     , 'pony'
     , 'ponyorm'
