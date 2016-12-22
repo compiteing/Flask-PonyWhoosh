@@ -92,12 +92,6 @@ If you want with flask, you can a server and visit a route by default `/ponywhoo
 
 .. |PyPI Package latest release| image:: http://img.shields.io/pypi/v/Flask-PonyWhoosh.png?style=flat
 
-.. |PyPI Package latest release| image:: http://img.shields.io/pypi/v/Flask-PonyWhoosh.png?style=flat
-   :target: https://pypi.python.org/pypi/Flask-PonyWhoosh
-
-.. |PyPI Package monthly downloads| image:: http://img.shields.io/pypi/dm/Flask-PonyWhoosh.png?style=flat
-   :target: https://pypi.python.org/pypi/Flask-PonyWhoosh
-
 .. |Test| image:: https://travis-ci.org/compiteing/flask-ponywhoosh.svg?branch=master
     :target: https://travis-ci.org/compiteing/flask-ponywhoosh
 
