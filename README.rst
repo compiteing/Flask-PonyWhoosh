@@ -1,4 +1,5 @@
-|logo|
+.. image::https://github.com/compiteing/flask-ponywhoosh/blob/master/docs/_static/logo.png
+  :align: center
 
 Flask-PonyWhoosh
 ================
@@ -102,5 +103,4 @@ If you want with flask, you can a server and visit a route by default `/ponywhoo
 .. |Test| image:: https://travis-ci.org/compiteing/flask-ponywhoosh.svg?branch=master
     :target: https://travis-ci.org/compiteing/flask-ponywhoosh
 
-.. |logo| image::https://github.com/compiteing/flask-ponywhoosh/blob/master/docs/_static/logo.png
-  :align: center
+
