@@ -13,7 +13,7 @@ your database you want to search.
 We included some templates for the search engine.
 
 
-Install:
+Install
 -------
 
 
@@ -31,21 +31,16 @@ The hard way:
     $ cd flask-ponywhoosh
     $ python setup.py install
 
-Example:
+Example
 --------
 
-
-Clone this repository in order to run the example or just download the source.
+After install the package. Clone this repository in order to run the
+example or just download the source.
 
 .. code:: bash
 
     $ git clone https://github.com/compiteing/flask-ponywhoosh.git
     $ cd flask-ponywhoosh
-
-    pip install -r requirements.txt
-
-Example.py:
-
 
 Then, you can run the example using:
 
