@@ -1,3 +1,5 @@
+|logo|
+
 Flask-PonyWhoosh
 ================
 |PyPI Package latest release| |Test|
@@ -91,9 +93,6 @@ If you want with flask, you can a server and visit a route by default `/ponywhoo
 
 .. |PyPI Package latest release| image:: http://img.shields.io/pypi/v/Flask-PonyWhoosh.png?style=flat
 
-
-
-
 .. |PyPI Package latest release| image:: http://img.shields.io/pypi/v/Flask-PonyWhoosh.png?style=flat
    :target: https://pypi.python.org/pypi/Flask-PonyWhoosh
 
@@ -102,3 +101,6 @@ If you want with flask, you can a server and visit a route by default `/ponywhoo
 
 .. |Test| image:: https://travis-ci.org/compiteing/flask-ponywhoosh.svg?branch=master
     :target: https://travis-ci.org/compiteing/flask-ponywhoosh
+
+.. |logo| image::https://github.com/compiteing/flask-ponywhoosh/blob/master/docs/_static/logo.png
+  :align: center
